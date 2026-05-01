@@ -5,7 +5,10 @@ This project simulates a 4-router OSPF network using a square topology.
 It demonstrates dynamic routing, OSPF neighbor formation, and full connectivity.
 
 ## Topology
-
+OSPF-neighbor.jpg
+ospf-route.jpg
+ospf-topo.jpg
+successful-ping.jpg
 
 ## IP Addressing
 
